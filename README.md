@@ -1,4 +1,4 @@
-# Aplicacoes-xojo-teclado-tictactoe-mathcar
+# Aplicacoes-Xojo-teclado-tictactoe-mathcar
 Projeto de estudo desenvolvido em 2012 durante aprendizado de programação visual com RealBasic/Xojo.
 Conjunto de três aplicações desktop desenvolvidas em Xojo/RealBasic, acessadas por um menu interativo onde o jogador navega com um carrinho usando W, A, S, D até o destino desejado.
 
